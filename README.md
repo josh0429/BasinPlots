@@ -3,3 +3,7 @@ In studying dynamical systems (especially nonlinear ones), a useful tool is a pl
 
 1. [Henon-Heiles](https://mathworld.wolfram.com/Henon-HeilesEquation.html)
 2. [Henon map](https://mathworld.wolfram.com/HenonMap.html)
+
+Here are some cool fractals that these notebooks output
+
+![Henon-Heiles potential](HenonHeiles.png) ![Henon map](HenonMap.png)
